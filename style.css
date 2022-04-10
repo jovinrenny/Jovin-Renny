@@ -153,7 +153,6 @@ p{
     z-index: 100;
     cursor: pointer;
     transform: scale(.8);
-    margin-right: 6px;
 }
 #header .hamburger::after {
     position: absolute;
